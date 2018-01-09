@@ -8,7 +8,7 @@ int main(){
 
     printf("Sum of x and y:%d\n", x + y);
 
-    printf("Difference between x and y: %d\n", x - y);
+    printf("Difference between x and y: %s\n", x - y);
 
     return 0;
 }
