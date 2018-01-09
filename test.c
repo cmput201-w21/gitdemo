@@ -2,7 +2,7 @@
 
 int main(){
 
-    printf("Hello there again\n");
+    printf("Hello there again\n", x);
 
     printf("Adding a problematic print statement\n");
 
